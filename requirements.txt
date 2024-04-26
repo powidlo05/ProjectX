@@ -1,0 +1,4 @@
+python-telegram-bot~=21.1.1
+DateTime~=5.3
+telebot~=0.0.5
+requests~=2.31.0
